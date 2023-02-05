@@ -1,5 +1,11 @@
 # CalculadoraApp
 
+Aplicacion de una calculadora desarrollada con el framework de Angular
+
+## Images of the prototype and its operation:
+![Captura de pantalla (95)](https://user-images.githubusercontent.com/83617933/216845553-9eae1d0e-50dd-4296-8ae8-2b14f0089ce3.png)
+
+# AngularApp
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
 ## Development server
